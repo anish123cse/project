@@ -1,0 +1,14 @@
+.navi{
+    height: 70vh;
+    background-color: rgb(80, 167, 218);
+}
+.main{
+    height: 50vh;
+}
+.register{
+    background-color: aqua;
+    height: 20vh;
+}
+.bottom{
+    height: 10vh;
+}
